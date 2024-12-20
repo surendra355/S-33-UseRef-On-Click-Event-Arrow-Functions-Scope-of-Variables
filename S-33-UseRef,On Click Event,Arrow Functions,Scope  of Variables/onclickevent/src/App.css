@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+form{
+  display: inline-block;
+  background-color: gray;
+  padding: 10px;
+  box-shadow: 10px 10px 30px 5px;
+  border-radius: 10px;
+  
+}
+form label{
+  display: inline-block;
+  width:150px;
+  font-size: 20px;
+}
+form div{
+  margin: 20px;
+ 
+}
+.innerLabel{
+  width: 500px;
+  
+
+}
